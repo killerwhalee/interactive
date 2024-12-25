@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pot
+
+# Environment value
+.venv/
+.env
+
+# Databases
+*/migrations/*
+!*/migrations/__init__.py
